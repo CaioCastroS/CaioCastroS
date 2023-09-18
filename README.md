@@ -24,7 +24,7 @@
 - Meu linkedin
 <br>
 
-<a href="https://www.linkedin.com/in/caio-castro-93b83028b/">
+<a href="https://www.linkedin.com/in/caio-castro-93b83028b/" target="_blank">
   <img src="https://o.remove.bg/downloads/4b679d88-83d1-403a-b60e-9a734ef11bd4/linkedin-logo-computer-icons-business-symbol-linkedin-icon-removebg-preview.png" width="60px", height="50px"/>
 </a>
 
